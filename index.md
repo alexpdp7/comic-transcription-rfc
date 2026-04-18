@@ -4,6 +4,11 @@ This document is a request for comments about a comic transcription standard.
 
 The purpose of the standard is to help organizations that want to make transcriptions of comics for accessibility purposes.
 
+> [!CAUTION]
+> The main author has very little knowledge about accessibility.
+> If you see anything that looks bad, then it is likely bad.
+> Feel free to send any feedback.
+
 ## Writing the transcription
 
 Prepare the transcription of a comic in a single file formatted as Markdown.
