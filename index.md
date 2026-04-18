@@ -117,6 +117,10 @@ Distribute both the Markdown file (to enable editing the transcription) and the 
 * Transcribing should require as little technical knowledge as possible.
 * The transcription should be usable without an Internet connection.
 
+## Tips
+
+If you do not have a way to hold the comic to transcribe, you can take pictures of each page and display them side to side with the editor on your screen.
+
 ## TODO
 
 * Cross references
